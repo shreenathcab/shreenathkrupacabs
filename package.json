@@ -1,5 +1,6 @@
 {
   "homepage": "https://shreenathcab.github.io/shreenathkrupacabs",
+  "name": "shreenathcab",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
